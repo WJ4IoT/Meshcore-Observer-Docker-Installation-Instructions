@@ -75,7 +75,7 @@ An user toml file needs to be created with your specific settings and local MQTT
 
 ```bash
 # copy an 99-user.toml to folder: mctomqtt-config/config.d
-wget -O mctomqtt-config/config.d/99-user.toml https://raw.githubusercontent.com/WJ4IoT/Meshcore-Observer-Installation/refs/heads/main/99-user.toml
+wget -O mctomqtt-config/config.d/99-user.toml https://raw.githubusercontent.com/WJ4IoT/Meshcore-Observer-Docker-Installation-Instructions/refs/heads/main/99-user.toml
 ```
 And update with your details
 
